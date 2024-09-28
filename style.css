@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(24, 154, 93);
+}
+header{
+    background-color: rgba(128, 200, 128, 0.905);
+    height: 100px;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 24px;
+
+}
+#img{
+  width:130px;
+  height:50px;
+}
+#devara{
+    display: inline-block;
+    background-color:coral;
+    width:370px;
+    height: 230px;
+    border-radius: 10px;
+}
+#part1{
+    height:150px;
+    background-color:beige;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px;
+    padding: 10px; 
+}
+button{
+    width:60px;
+    height:30px;
+    background-color: darkgreen;
+    border-radius:5px;   
+    color:white;
+}
+#part2{
+   float:right; 
+   padding:20px ;
+}
+  
+    
+  #div2{display: inline-block;
+
+  }
+  #div3{
+    display: inline-block;
+  }
+  #div4{
+    display: inline-block;
+  }
+
